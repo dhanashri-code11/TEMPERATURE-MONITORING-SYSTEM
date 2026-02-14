@@ -55,3 +55,7 @@ Electronics Protection
 Computers and servers use temperature sensors to prevent overheating.
 
 Fans or cooling systems are activated when temperatures exceed safe limits.
+
+OUTPUT:
+
+<img width="1906" height="797" alt="Image" src="https://github.com/user-attachments/assets/28e878c8-fbd1-4be0-989a-750c7a31ea15" />
